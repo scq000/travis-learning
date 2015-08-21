@@ -1,0 +1,22 @@
+{
+  "name": "travis-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/jasmine/bin/jasmine.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scq000/travis-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scq000/travis-learning/issues"
+  },
+  "homepage": "https://github.com/scq000/travis-learning#readme",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
